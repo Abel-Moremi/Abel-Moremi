@@ -1,4 +1,4 @@
-### FullStack Developer | Data Science Enthusiest | Lover of tech 💻
+### FullStack Developer | Data Science Enthusiast | Lover of tech 💻
 
 <!--
 **Abel-Moremi/Abel-Moremi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
